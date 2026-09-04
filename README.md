@@ -12,9 +12,9 @@ Take a look around, and reach out anytime you want to chat!
 ## Flagship projects
 
 ### Data analysis and modelling
-- <a href="https://github.com/nam-chu-2/2025-ssc-case-competition" target="_blank" rel="noopener noreferrer"> Predicting atrial fibrillation using a boosting approach</a>
-- <a href="https://github.com/nam-chu-2/ssc-2026-case-study" target="_blank" rel="noopener noreferrer"> Multi-class classification of Parkinsonisms</a>
-- <a href="https://github.com/nam-chu-2/asna-2025-case-competition" target="_blank" rel="noopener noreferrer"> Recommendations for flood insurance</a>
+<a href="https://github.com/nam-chu-2/2025-ssc-case-competition" target="_blank" rel="noopener noreferrer"> Predicting atrial fibrillation using a boosting approach</a>
+<a href="https://github.com/nam-chu-2/ssc-2026-case-study" target="_blank" rel="noopener noreferrer"> Multi-class classification of Parkinsonisms</a>
+<a href="https://github.com/nam-chu-2/asna-2025-case-competition" target="_blank" rel="noopener noreferrer"> Recommendations for flood insurance</a>
 
 ### Automation and Agentic AI
 - <a href="https://github.com/nam-chu-2/agentic-ai-for-economists" target="_blank" rel="noopener noreffer"> Agentic AI workflows for applied microeconomists</a>
