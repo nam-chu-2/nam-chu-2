@@ -12,11 +12,12 @@ Take a look around, and reach out anytime you want to chat!
 ## Flagship projects
 
 ### Data analysis and modelling
-- Predicting atrial fibrillation using a boosting approach
-- Multi-class classification of Parkinsonisms
-- Recommendations for a real estate footprint
+- [Predicting atrial fibrillation using a boosting approach](https://github.com/nam-chu-2/2025-ssc-case-competition)
+- [Multi-class classification of Parkinsonisms](https://github.com/nam-chu-2/ssc-2026-case-study)
+- [Recommendations for flood insurance](https://github.com/nam-chu-2/asna-2025-case-competition)
 
 ### Automation and Agentic AI
-- Agentic AI workflows for applied microeconomists
+- [Agentic AI workflows for applied microeconomists](https://github.com/nam-chu-2/agentic-ai-for-economists)
+
 
 
